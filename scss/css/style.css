@@ -1,0 +1,23 @@
+body {
+  font-family: "brandon-grotesque", Helvetica,sans-serif; }
+
+.wrapper {
+  width: 1440px;
+  max-width: 90%;
+  margin: 0 auto; }
+
+#banner {
+  background-image: url(../images/first.jpg);
+  background-repeat: no-repeat;
+  background-size: cover; }
+  #banner header {
+    padding: 2rem 0; }
+
+#logo {
+  color: #FFF;
+  font-weight: 700;
+  font-size: 1.35em;
+  float: left;
+  margin: 0; }
+
+/*# sourceMappingURL=style.css.map */
