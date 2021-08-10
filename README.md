@@ -8,7 +8,7 @@ This is Front-End part of this web.
 Install my-project as zip or clone.
 
 ```bash
-    git clone https://github.com/Yesh123456/todo.git
+    git clone https://github.com/Yesh123456/agency.git
 ```
 
 Install Sass.(For Ubuntu)
